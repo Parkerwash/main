@@ -5,7 +5,7 @@ GeForce Now Website
 <a href="https://www.google.com">Google</a>
 <a href="https://quackprep.org">quak</a>
 <a href="https://browserling.com">browerling</a>
-<a href="https://eaglercraft.com/">eaglercrat</a>
+<a href="https://eaglercraft.com/">eaglercraft</a>
 <a href="https://www.youtube.com/">youtube</a>
 <a href="https://fmhy.net/videopiracyguide">ya</a>
 <a href="https://www.cineby.app/">cinby</a>
