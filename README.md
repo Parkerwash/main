@@ -14,3 +14,4 @@ GeForce Now Website
 <a href="https://endis.org/">valt</a>
 <a href="https://web.cloudmoonapp.com/">moon</a>
 <a href="https://now.gg/">now</a>
+<a href="https://remotedesktop.google.com/">remote</a>
