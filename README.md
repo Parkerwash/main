@@ -30,4 +30,7 @@ GeForce Now Website
 
 <a href="https://remotedesktop.google.com/">remote</a>
 
-<a href="https://www.xbox.com/en-us/playhttps://www.xbox.com/en-us/play">xbox clow</a>
+<a href="https://www.xbox.com/en-us/playhttps://www.xbox.com/en-us/play">xbox clow</a
+
+<a href="https://www.xbox.com/en-US/cloud-gaming">xbox2</a>
+
