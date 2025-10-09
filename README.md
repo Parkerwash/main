@@ -36,3 +36,5 @@ for school
 <a href="https://www.xbox.com/en-US/cloud-gaming">xbox2</a> 🔴 for xbox you need game pass
 
 <a href="https://2369912.playcode.io/">no</a>
+
+<a href="chrome://borealis-installer">bigpoo</a>
