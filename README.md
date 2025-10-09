@@ -38,3 +38,9 @@ for school
 <a href="https://2369912.playcode.io/">no</a>
 
 <a href="https://fognetwork.github.io/Ingot/">bigpoo</a>
+
+<a href="https://app.app.19194545tomatomato.ipv64.net/">hao</a>
+
+<ahref="https://live.browserstack.com/dashboard#os=ios&os_version=14.0&device=iPhone+12+Mini&zoom_to_fit=true&full_screen=true&url=www.browserstack.com%2Fwelcome&speed=1">chrome i thint</a>
+
+<a href=”https://docs.titaniumnetwork.org/">idc</a>
