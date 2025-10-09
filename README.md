@@ -37,4 +37,4 @@ for school
 
 <a href="https://2369912.playcode.io/">no</a>
 
-<a href="chrome://borealis-installer">bigpoo</a>
+<a href="https://fognetwork.github.io/Ingot/">bigpoo</a>
